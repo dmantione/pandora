@@ -99,7 +99,7 @@
 	<!-- Insults against this faction. -->
 	<entry name="Insult0" value="Jullie vuile leugenaars."/>
 	<entry name="Insult1" value="Monsters. Spelen met de levens van mensen zou niet lollig mogen zijn."/>
-	<entry name="Insult2" value="Uw gespleten toen is als verschrikkelijke herrie in mijn oren."/>
+	<entry name="Insult2" value="Uw gespleten tong is als verschrikkelijke herrie in mijn oren."/>
 	
 	<!-- Offers gift. -->
 	<entry name="OfferGift0" value="&quot;We hebben ons hulpbudget net verhoogd. U ziet eruit alsof u behoefte heeft aan luchtdroppings.&quot;"/>
@@ -132,7 +132,7 @@
 	<entry name="AllianceAccepted" value="&quot;Opdat niemand ons bondgenootschap mag breken, behalve wijzelf dan.&quot;"/>
 	<entry name="AllianceRejected" value="&quot;Hoe kunnen we dit diplomatiek zeggen? Ah... nee.&quot;"/>
 	<entry name="AllianceTerminated" value="&quot;Begrijpelijk. Maar u zult weer terugkomen.&quot;"/>
-	<entry name="Condemn" value="&quot;De raad heeft uw handelingen zonder voorbehoud als provocatief veroordeeld. Persoonlijk ik het zo zeggen: Rot weg in de hel.&quot;"/>
+	<entry name="Condemn" value="&quot;De raad heeft uw handelingen zonder voorbehoud als provocatief veroordeeld. Persoonlijk zou ik het zo zeggen: Rot weg in de hel.&quot;"/>
 	<entry name="CondemnAccepted" value="&quot;%4% Met anderen woorden: Uw mening is volledig legitiem, ook al is hij op verdachte gronden gestoeld.&quot;"/>	
 	<entry name="DeclareWar" value="&quot;%4% Of anders uitgedrukt: We beginnen aan een beperkte tactische operatie binnen uw grenzen.&quot;"/>
 	<entry name="DemandWithdrawal" value="&quot;Uw vredestroepen houden zich zorgbarend dicht op bij ons op. Trekt u ze alstublieft terug achter de overeengekomen buffer lijn.&quot;"/>
